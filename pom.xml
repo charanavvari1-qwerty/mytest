@@ -24,3 +24,14 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   </dependencies>  
   
 </project>  
+
+
+<dependencis>
+  jfrog ---> snapshkpt. 
+  jfrog ---> release. 
+  
+  nexus--->snapsjpoy
+  nexus-->releasew
+
+
+  </dependecies>
